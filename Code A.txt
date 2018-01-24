@@ -6,11 +6,11 @@ All statements starts as "Code A" in this file
 ********************/
 
 1. Code Duo Fibonacci
-2. Code Uno Prime
+2. Code Duo Fibonacci
 3. Code Duo Fibonacci
 4. Code A
 5. Code Duo Fibonacci
 6. Code A
-7. Code Uno Prime
+7. Code A
 8. Code Duo Fibonacci
 9. Code A
