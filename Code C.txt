@@ -1,13 +1,15 @@
+Version 2.1.1 Duo
+
 /********************
 Just to simulate content in a programming source code
 All statements starts as "Code C" in this file
 ********************/
 
-1. Code C
+1. Code Duo
 2. Code C
 3. Code C
 4. Code C
-5. Code C
+5. Code Duo
 6. Code C
 7. Code C
 8. Code C
